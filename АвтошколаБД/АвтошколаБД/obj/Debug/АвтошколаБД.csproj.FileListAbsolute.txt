@@ -1,0 +1,11 @@
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\bin\Debug\AutoschoolBD.mdf
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\bin\Debug\AutoschoolBD_log.ldf
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\bin\Debug\АвтошколаБД.exe.config
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\bin\Debug\АвтошколаБД.exe
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\bin\Debug\АвтошколаБД.pdb
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\obj\Debug\АвтошколаБД.csprojAssemblyReference.cache
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\obj\Debug\АвтошколаБД.Form1.resources
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\obj\Debug\АвтошколаБД.Properties.Resources.resources
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\obj\Debug\АвтошколаБД.csproj.GenerateResource.cache
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\obj\Debug\АвтошколаБД.exe
+C:\Users\reshad kramani\source\repos\АвтошколаБД\АвтошколаБД\obj\Debug\АвтошколаБД.pdb
